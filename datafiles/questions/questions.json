@@ -1,0 +1,10 @@
+{
+    "pregunta": "Esta es una pregunta?",
+    "opciones": [
+        "opcion 1",
+        "opcion 2",
+        "opcion 3",
+        "opcion 4"
+    ],
+    "respuesta": "1"
+}
